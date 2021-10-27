@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Sonam's github stats](https://github-readme-stats.vercel.app/api?username=sonam-niit)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonam-niit)](https://github.com/sonam-niit/github-readme-stats)
+

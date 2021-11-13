@@ -1,6 +1,18 @@
-# Sonam Soni
-
 ### Hi there 👋
+
+<a href="https://www.linkedin.com/in/sonamsoni/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/sonamsoni14/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="mailto:sonam.gravity@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=sonam-niit.sonam-niit)
+
+<br />
 I am Full Stack Trainer for JAVA, MEAN ,MERN
 <!--
 **sonam-niit/sonam-niit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

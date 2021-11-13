@@ -16,6 +16,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 💼 any freelance work? do reach, [email](mailto:sonam.gravity@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+- 👩‍💻 All of my projects are available  [here](https://github.com/sonam-niit?tab=repositories)
 
 **languages and tools:**  
 
@@ -30,7 +31,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-- 👩‍💻 All of my projects are available  [here](https://github.com/sonam-niit?tab=repositories)
+
 
 <details>
 <summary>📊 Github Stats</summary>

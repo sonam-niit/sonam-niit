@@ -9,7 +9,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sonam-niit)
 
-hi, i'm [Sonam Soni], a passionate self-taught software engineer and a freelance full stack Trainer from india. My passion for software training in JAVA, MEAN and MERN stack. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm <b>Sonam Soni</b>, a passionate self-taught software engineer and a freelance full stack Trainer from india. My passion for software training in JAVA, MEAN and MERN stack. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 

@@ -12,24 +12,18 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sonam-niit)
 
-<br />
-I am Full Stack Trainer for JAVA, MEAN ,MERN
-<!--
-**sonam-niit/sonam-niit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi, i'm [Sonam Soni], a passionate self-taught software engineer and a freelance full stack Trainer from india. My passion for software training in JAVA, MEAN and MERN stack. i take great care in the experience, architecture, and code quality of the things I build.
 
-Here are some ideas to get you started:
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-- ⚡️ Languages and Tools I work with:
+  <img align="right" alt="GIF" src="https://github.com/sonam-niit/sonam-niit/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:sonam.gravity@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+**languages and tools:**  
+
      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -43,7 +37,6 @@ Here are some ideas to get you started:
      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 - 👩‍💻 All of my projects are available  [here](https://github.com/sonam-niit?tab=repositories)
-
 
 <details>
 <summary>📊 Github Stats</summary>

@@ -10,7 +10,7 @@
   <img align="left" target="_blank" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=sonam-niit.sonam-niit)
+![Visitor Count](https : //profile-counter.glitch.me/{sonam-niit}/count.svg)
 
 <br />
 I am Full Stack Trainer for JAVA, MEAN ,MERN

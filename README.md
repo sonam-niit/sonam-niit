@@ -1,4 +1,4 @@
-# Ushasri Mavuri
+# Sonam Soni
 
 ### Hi there 👋
 I am Full Stack Trainer for JAVA, MEAN ,MERN

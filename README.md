@@ -15,7 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Sonam's github stats](https://github-readme-stats.vercel.app/api?username=sonam-niit)
+<details>
+<summary>📊 Github Stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonam-niit)](https://github.com/sonam-niit/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sonam-niit&show_icons=true&theme=gotham" alt="Sonam Soni | Stats" />
+
+
+<summary>📊 Most Used Languages</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonam-niit&show_icons=true&theme=gotham" alt="Sonam Soni| Stats" />
+
+</details>
+
 

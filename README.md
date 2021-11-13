@@ -1,5 +1,7 @@
-### Hi there 👋
+# Ushasri Mavuri
 
+### Hi there 👋
+I am Full Stack Trainer for JAVA, MEAN ,MERN
 <!--
 **sonam-niit/sonam-niit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -10,7 +10,7 @@
   <img align="left" target="_blank" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/sonam-niit?tab=repositories)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/sonam-niit)
 
 <br />
 I am Full Stack Trainer for JAVA, MEAN ,MERN

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/sonam-soni/">
-  <img align="left" target="_blank" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/>
 </a>
 <a target="_blank" href="https://www.instagram.com/sonamsoni14/">
   <img align="left" target="_blank" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
